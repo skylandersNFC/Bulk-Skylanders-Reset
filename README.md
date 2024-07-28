@@ -1,5 +1,5 @@
 ----------------------------------------
-# Bulk Skylanders Reset Version 1.2 (SSA - SSC and Imaginators)
+# Bulk Skylanders Reset
 ----------------------------------------
 
 ### This project resets Skylanders NFC dumps to LVL 1 in bulk.
