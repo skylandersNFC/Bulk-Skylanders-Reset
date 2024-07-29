@@ -1,8 +1,8 @@
 ----------------------------------------
 # Bulk Skylanders Reset
-----------------------------------------
 
-### This project resets Skylanders NFC dumps to LVL 1 in bulk.
+
+**This project resets Skylanders NFC dumps to LVL 1 in bulk.**
 
 ----------------------------------------
 
