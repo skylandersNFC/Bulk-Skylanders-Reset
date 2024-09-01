@@ -1,6 +1,8 @@
-----------------------------------------
-# Bulk Skylanders Reset
 
+# Bulk Skylanders Reset
+**DOWNLOAD: [Bulk Skylanders Reset](https://github.com/skylandersNFC/Bulk-Skylanders-Reset/releases/tag/Bulk-Skylanders-Reset)**
+
+----------------------------------------
 
 **This project resets Skylanders NFC dumps to LVL 1 in bulk.**
 
