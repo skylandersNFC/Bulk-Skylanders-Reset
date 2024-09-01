@@ -1,5 +1,6 @@
 
 # Bulk Skylanders Reset
+
 **DOWNLOAD: [Bulk Skylanders Reset](https://github.com/skylandersNFC/Bulk-Skylanders-Reset/releases/tag/Bulk-Skylanders-Reset)**
 
 ----------------------------------------
